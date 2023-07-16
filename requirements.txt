@@ -1,0 +1,7 @@
+tensorflow 2.11.0
+retina-face=0.0.13
+opencv-python~=4.7.0.72
+keras~=2.11.0
+matplotlib~=3.7.0
+numpy~=1.24.2
+scikit-image~=0.20.0
